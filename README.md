@@ -11,9 +11,13 @@ on Ubuntu
 apt install nodejs
 apt install npm
 ~~~
-2. Run the proxy
+2. Clone the repo
+~~~
+git clone https://github.com/liulihaocai/Google_Proxy.git
+~~~
+3. Run the proxy
 ~~~
 node proxy.js
 ~~~
-3. Have fun!
+4. Have fun!
 open yourserverip:80 to search on Google!
